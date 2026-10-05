@@ -1,0 +1,2 @@
+"dataset_id","cells_raw","multiplet_removed","undetermined_removed","technical_cells_removed","CAP_von_unten_removed","SM837_CAP_von_unten_removed","study_design_cells_removed","cells_after_sample_cleaning","total_cells_removed","percent_removed"
+"Lea3",42201,5886,2540,8426,4863,2742,7605,26170,16031,37.987
