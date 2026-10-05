@@ -1,4 +1,0 @@
-"dataset_id","total_cells","low_features","high_features","high_mitochondrial","fail_any_QC","retain_after_QC","percent_removed","percent_retained"
-"Lea1",21273,1,901,30,931,20342,4.38,95.62
-"Lea2",28129,3465,31,999,3701,24428,13.16,86.84
-"Lea3",26170,2148,138,462,2408,23762,9.2,90.8
